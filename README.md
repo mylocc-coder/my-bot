@@ -4,7 +4,7 @@ A tiny playground repository for the Superagent demo.
 
 ## 安装
 
-Instal the dependencies first:
+Install the dependencies first:
 
 ```
 pnpm install
